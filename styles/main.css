@@ -1,4 +1,4 @@
-html, body {
+html, body, #wrapper {
     height: 100%;
     margin: 0;
     padding: 0;
@@ -11,7 +11,19 @@ a {
 }
 
 #cover {
-    background-image: url(../images/billiards.jpg);
+    background-image: url(../images/billiards1.jpg);
+    background-size: cover;
+    height: inherit;
+}
+
+#announcements {
+    background-image: url(../images/billiards2.jpg);
+    background-size: cover;
+    height: inherit;
+}
+
+#schedule {
+    background-image: url(../images/billiards3.jpg);
     background-size: cover;
     height: inherit;
 }
