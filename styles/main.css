@@ -1,4 +1,12 @@
-html, body {
+html {
+    height: 100%;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+
+body {
     height: 100%;
     width: 300%;
     margin: 0;
@@ -8,7 +16,7 @@ html, body {
 
 #wrapper {
     height: 100%;
-    width: 34%;
+    width: 100%;
     margin: 0;
     padding: 0;
     border: 0;
@@ -23,23 +31,23 @@ a {
     background-image: url(../images/billiards1.jpg);
     background-size: cover;
     height: inherit;
-    width: 33%;
+    width: 33.4%;
 }
 
 #announcements {
     background-image: url(../images/billiards2.jpg);
     background-size: cover;
     height: inherit;
-    margin-left: 33%;
+    margin-left: 33.4%;
     margin-top: -820px;
-    width: 33%;
+    width: 33.4%;
 }
 
 #schedule {
     background-image: url(../images/billiards3.jpg);
     background-size: cover;
     height: inherit;
-    width: 33%;
-    margin-left: 66%;
+    width: 33.4%;
+    margin-left: 66.8%;
     margin-top: -820px;
 }
