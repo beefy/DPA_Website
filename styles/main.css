@@ -57,3 +57,7 @@ a {
     margin-left: 200%;
     /*margin-top: -820px;*/
 }
+
+#calender_container {
+    background-color:white;
+}
