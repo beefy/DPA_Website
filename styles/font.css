@@ -14,6 +14,14 @@ h2 {
 	line-height: 25.5px;
     text-shadow: -1px 0 white, 0 1px white, 1px 0 white, 0 -1px white;
 }
+h3 {
+	font-family: Graduate;
+	font-size: 12.5px;
+	font-style: normal;
+	font-weight: 200;
+	line-height: 25.5px;
+    text-shadow: -1px 0 white, 0 1px white, 1px 0 white, 0 -1px white;
+}
 p {
 	font-family: Righteous;
 	font-size: 25px;

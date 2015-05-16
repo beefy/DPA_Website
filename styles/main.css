@@ -17,7 +17,7 @@ body {
 
 #content {
     height: 100%;
-    width: 300%;
+    width: 400%;
 }
 
 #wrapper {
@@ -37,7 +37,7 @@ a {
     background-image: url(../images/billiards2.jpg);
     background-size: cover;
     height: inherit;
-    width: 33.3333334%;
+    width: 25%;
 }
 
 #announcements {
@@ -46,18 +46,37 @@ a {
     height: inherit;
     margin-left: 100%;
     /*margin-top: -820px;*/
-    width: 33.3333334%;
+    width: 25%;
 }
 
 #schedule {
     background-image: url(../images/billiards3.jpg);
     background-size: cover;
     height: inherit;
-    width: 33.3333334%;
+    width: 25%;
     margin-left: 200%;
     /*margin-top: -820px;*/
 }
 
+#officers {
+    background-image: url(../images/billiards4.jpg);
+    background-size: cover;
+    height: inherit;
+    width: 25%;
+    margin-left: 300%;
+}
+
 #calender_container {
     background-color:white;
+}
+
+.profile_pic {
+    height: 250px;
+    width: 250px;
+}
+
+#officer_table {  
+    border-spacing: 90px;
+    border-collapse: separate;
+    margin-left:10%;
 }
