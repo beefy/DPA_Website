@@ -8,10 +8,15 @@ html {
 
 body {
     height: 100%;
-    width: 300%;
+    width: 100%;
     margin: 0;
     padding: 0;
     border: 0;
+}
+
+#content {
+    height: 100%;
+    width: 300%;
 }
 
 #wrapper {
@@ -20,6 +25,7 @@ body {
     margin: 0;
     padding: 0;
     border: 0;
+    overflow:hidden;    
 }
 
 a {
@@ -31,23 +37,23 @@ a {
     background-image: url(../images/billiards1.jpg);
     background-size: cover;
     height: inherit;
-    width: 33.4%;
+    width: 33.3333334%;
 }
 
 #announcements {
     background-image: url(../images/billiards2.jpg);
     background-size: cover;
     height: inherit;
-    margin-left: 33.4%;
-    margin-top: -820px;
-    width: 33.4%;
+    margin-left: 100%;
+    /*margin-top: -820px;*/
+    width: 33.3333334%;
 }
 
 #schedule {
     background-image: url(../images/billiards3.jpg);
     background-size: cover;
     height: inherit;
-    width: 33.4%;
-    margin-left: 66.8%;
-    margin-top: -820px;
+    width: 33.3333334%;
+    margin-left: 200%;
+    /*margin-top: -820px;*/
 }
